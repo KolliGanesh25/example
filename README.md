@@ -1,2 +1,2 @@
 # example
-this ia example
+this is example
